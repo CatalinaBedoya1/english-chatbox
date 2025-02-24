@@ -1,7 +1,6 @@
 import nltk
 from nltk.tokenize import word_tokenize
 
-# Ensure NLTK resources are downloaded
 nltk.download('punkt')
 
 # Define keyword-response pairs
